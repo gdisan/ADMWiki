@@ -1,2 +1,3 @@
 # ADMWiki
-MediaWiki-based information portal
+MediaWiki-based medical information portal
+![Promo](promo.png)
