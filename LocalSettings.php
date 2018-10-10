@@ -31,7 +31,7 @@ $wgScriptPath       = 'adm' == '' ? "" : "/adm";
 $wgScriptExtension  = ".php";
 
 ## The protocol and server name to use in fully-qualified URLs
-#$wgServer           = "http://comixtown.com/adm";
+#$wgServer           = "XXXX";
 
 ## The relative URL path to the skins directory
 $wgStylePath        = "$wgScriptPath/skins";
@@ -55,8 +55,8 @@ $wgEmailAuthentication = true;
 ## Database settings
 $wgDBtype           = "mysql";
 $wgDBserver         = "localhost";
-$wgDBname           = "comixtown_med00";
-$wgDBuser           = "comixtown_med00";
+$wgDBname           = "database_med00";
+$wgDBuser           = "database_med00";
 $wgDBpassword       = 'anaxgigazu';
 
 # MySQL specific settings
